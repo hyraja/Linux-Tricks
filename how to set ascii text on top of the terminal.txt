@@ -1,0 +1,32 @@
+                          How to set ascii text while opening the terminal(ubuntu)
+                          --------------------------------------------------------
+
+While you open a terminal in ubuntu its look kind of boring there so we are going to add ascii text as shown below. Let's get started.
+
+1. open your browser and search for [test to ascii generator]
+
+2. click one the very first link (https://www.patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
+3. inside the text box type anything u want to show on ur terminal instead of (type something)--> test all
+
+4. Then copy the selected ascii and paste on a text box.
+
+5. then open terminal --> and type [gedit .bashrc] ---> then go to last line
+
+6. and paste the whole code given below there. 
+
+echo    "╔══════════════════════════════════════════════════════════════════════════════════╗ "
+echo    "║ ██████╗  █████╗      ██╗ █████╗ ██████╗ ██████╗  █████╗ ███████╗ █████╗ ██████╗  ║ "
+echo    "║ ██╔══██╗██╔══██╗     ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗ ║ "
+echo    "║ ██████╔╝███████║     ██║███████║██████╔╝██████╔╝███████║███████╗███████║██║  ██║ ║ "
+echo    "║ ██╔══██╗██╔══██║██   ██║██╔══██║██╔═══╝ ██╔══██╗██╔══██║╚════██║██╔══██║██║  ██║ ║ "
+echo    "║ ██║  ██║██║  ██║╚█████╔╝██║  ██║██║     ██║  ██║██║  ██║███████║██║  ██║██████╔╝ ║ "
+echo    "║ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝  ║ "
+echo    "╚══════════════════════════════════════════════════════════════════════════════════╝ "
+
+7. then hit ctrl + s to save this file .
+
+8. open a new terminal u can able to see the character on top of the terminal.
+
+-------------------------------------------------  END ----------------------------------------------------------------------------------------
+     
